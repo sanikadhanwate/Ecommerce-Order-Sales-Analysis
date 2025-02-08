@@ -2,6 +2,7 @@
 Ecommerce Order Sales Analysis highlights key DAX measures, including Total Sales, Profit, Profit Margin, 90th Percentile Sales, Median Sales, and Average Revenue per Product. It also covers customer count, order metrics, shipping efficiency, and cumulative sales trends.
 PowerBI File Link : https://github.com/sanikadhanwate/Ecommerce-Order-Sales-Analysis/blob/2b6cc65292e542b6529b851a774db274af9618da/Excel%20data%201.pbix
 
+Excel sheet : https://1drv.ms/x/c/088fb23c46fc8d10/EZbVuImvcrZJprO1OKeIUNkBO0Km35mIhUwAmfm7kGFVyw?e=phnvjl
 ### Below is the dashboard showcasing these insights.
 ![Screenshot 2025-02-08 215808](https://github.com/user-attachments/assets/b0ca2838-0398-4b55-a157-fbba26772f68)
 
